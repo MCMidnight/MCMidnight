@@ -26,6 +26,7 @@ Got an idea? Shoot me a message. Let's make something awesome!
 - **38+ Private Commissions**: Delivered custom C# solutions, all built inside of Unity.
   - Focused on gameplay systems, mechanics, and backend logic.
   - Integrated UI elements like HUDs, team management menus, and engaging start screens.
+- **2 Private Commissions**: Built in Lua.
 - Developed a range of stuff like: **C# Discord bots**.
 - Total coding time: **13+ months** of dedicated C# practice and professional work.
 
