@@ -39,4 +39,4 @@ Check out some of my shared work:
 
 ---
 
-*Built with ❤️ in Unity | Last updated: September 26, 2025*
+Last updated: September 26, 2025*
