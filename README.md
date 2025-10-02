@@ -23,9 +23,9 @@ I'm also down for **part-time freelance work** on C# and Unity projects! If you'
 Got an idea? Shoot me a message. Let's make something awesome!
 
 ## 💼 Experience Highlights
-- **38+ Private Commissions**: Delivered custom C# solutions, all built inside of Unity.
+- **40+ Private Commissions**: Delivered custom C# solutions, all built inside of Unity.
   - Focused on gameplay systems, mechanics, and backend logic.
-  - Integrated UI elements like HUDs, team management menus, and engaging start screens.
+  - Integrated UI elements like HUDs, team management menus, and engaging start screens, AI's.
 - **2 Private Commissions**: Built in Lua.
 - Developed a range of stuff like: **C# Discord bots**.
 - Total coding time: **13+ months** of dedicated C# practice and professional work.
