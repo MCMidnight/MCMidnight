@@ -42,4 +42,4 @@ Check out some of my shared work:
 
 ---
 
-*Last updated: October 2, 2025*
+*Last updated: October 6, 2025*
